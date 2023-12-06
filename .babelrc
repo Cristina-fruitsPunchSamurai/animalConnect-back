@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/preset-env"]
+  }
+
+//permet de traduire le code javascript en une version compatible pour différents navigateurs
